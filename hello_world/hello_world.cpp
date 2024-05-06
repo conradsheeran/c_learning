@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main()  // 此处 int 是对该函数返回值的定义
+int main()  // 姝ゅ int 鏄璇ュ嚱鏁拌繑鍥炲�肩殑瀹氫箟
 {
 	printf("Hello, World!");
 	return 0;
