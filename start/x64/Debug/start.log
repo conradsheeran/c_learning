@@ -1,2 +1,8 @@
 ﻿  index.cpp
-  start.vcxproj -> D:\Documents\c_learning\x64\Debug\start.exe
+D:\Documents\c_learning\start\index.cpp(9,15): error C2660: “square”: 函数不接受 1 个参数
+  D:\Documents\c_learning\start\index.cpp(3,7):
+  参见“square”的声明
+  D:\Documents\c_learning\start\index.cpp(9,15):
+  尝试匹配参数列表“(int)”时
+  
+D:\Documents\c_learning\start\index.cpp(17,16): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
