@@ -3,8 +3,10 @@
 int main(void) {
 	int r;
 	float area;
+
 	r = 10;
 	area = pi * r * r;
 	printf("%f", area);
 	return 0;
+
 }
